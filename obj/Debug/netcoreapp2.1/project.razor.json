@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\HocTap\\WebAPI_TC_DN\\WebAPI_TC_DN\\WebAPI_TC_DN.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

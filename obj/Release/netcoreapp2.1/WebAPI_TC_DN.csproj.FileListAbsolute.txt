@@ -1,0 +1,14 @@
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\bin\Release\netcoreapp2.1\WebAPI_TC_DN.deps.json
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\bin\Release\netcoreapp2.1\WebAPI_TC_DN.runtimeconfig.json
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\bin\Release\netcoreapp2.1\WebAPI_TC_DN.runtimeconfig.dev.json
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\bin\Release\netcoreapp2.1\WebAPI_TC_DN.dll
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\bin\Release\netcoreapp2.1\WebAPI_TC_DN.pdb
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.csprojAssemblyReference.cache
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.csproj.CoreCompileInputs.cache
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.RazorAssemblyInfo.cache
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.RazorAssemblyInfo.cs
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.AssemblyInfoInputs.cache
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.AssemblyInfo.cs
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.RazorTargetAssemblyInfo.cache
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.dll
+D:\HocTap\WebAPI_TC_DN\WebAPI_TC_DN\obj\Release\netcoreapp2.1\WebAPI_TC_DN.pdb
